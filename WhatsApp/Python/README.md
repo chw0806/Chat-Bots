@@ -30,5 +30,5 @@
 - Learn more about the Spurwing Scheduling API.
 
 ## Team Members##
--
--Yingfeng Lou Email: yingfengxhh@gmail.com LinkedIn: https://www.linkedin.com/in/yingfeng-lou/
+- Yingfeng Lou Email: yingfengxhh@gmail.com LinkedIn: https://www.linkedin.com/in/yingfeng-lou/
+- Hanwenc Chen Email: hanwenchen86@gmail.com LinkedIn: https://www.linkedin.com/in/hanwen-chen/
